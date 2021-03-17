@@ -12,6 +12,12 @@
 
 <hr>
 
+### ⚡ Habilidades:
+- ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=FFFFFF)
+
+### 🧰 Ferramentas:
+- ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF) ![Windows](https://img.shields.io/badge/-Windows-0078D6?&logo=Windows&logoColor=FFFFFF) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?&logo=Visual%20Studio%20Code&logoColor=FFFFFF) ![Linux](https://img.shields.io/badge/-Linux-FCC624?&logo=Linux&logoColor=FFFFFF) 
+
 ### :bulb:  Estatísticas gerais 
  
 ![Wellynton GitHub status](https://github-readme-stats.vercel.app/api?username=wellbenicio&show_icons=true&theme=dracula)
