@@ -14,7 +14,7 @@
 
 ### :bulb:  Estatísticas gerais 
  
-[![Wellynton github stats](https://github-readme-stats.vercel.app/api?username=Wellynton-Benicio-dev&theme=cobalt&show_icons=true)](https://github.com/wellbenicio/github-readme-stats)
+[![Wellynton github stats](https://github-readme-stats.vercel.app/api?username=wellynton-alves-benicio-dev&theme=cobalt&show_icons=true)](https://github.com/wellbenicio/github-readme-stats)
 
 ### 📈  linguagens mais usadas 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Erickson-lopes-dev&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
