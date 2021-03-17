@@ -14,7 +14,7 @@
 
 ### :bulb:  Estatísticas gerais 
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wellbenicio)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wellbenicio&show_icons=true&theme=dracula)
 
 ### 📈  linguagens mais usadas 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Erickson-lopes-dev&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
