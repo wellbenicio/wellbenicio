@@ -5,7 +5,7 @@
 ### 👦Sobre mim :seedling: : 
 - 👋 Me chamo **Wellynton**, tenho 25 anos.
 - 📌  Sou Cearense, mas moro em São Bernardo do Campo, São Paulo, Brasil.
-- 💼 Atualmente sou desenvolvedor Front-End em formação.
+- 💼 Atualmente desenvolvedor Front-End em formação.
 - 🎓 Sou acadêmico de Engenharia de Software;
 - 🎓 Curso Front-End na Labenu (escola de tecnologia);
 - 🔭 Curiosidades: Gosto de tocar violão, games (como por exemplo C.O.D), escrever, conhecer novas pessoas e suas jornadas. 
