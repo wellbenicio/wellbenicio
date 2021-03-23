@@ -2,7 +2,7 @@
 	✅Bem vindo ao meu GitHub🚀
 </h1>
 
-### 👦Sobre mim :seedling: : 
+### 👦Sobre mim: 
 - 👋 Me chamo **Wellynton**, tenho 25 anos.
 - 📌  Sou Cearense, mas moro em São Bernardo do Campo, São Paulo, Brasil.
 - 💼 Atualmente desenvolvedor Front-End em formação.
