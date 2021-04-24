@@ -1,8 +1,6 @@
-<h1 align="center"> 
-	✅Bem vindo ao meu GitHub🚀
-</h1>
+## 💜 Olá, meu nome é <strong>{Welynton}!</strong>
 
-### 👦Sobre mim: 
+>### 👦Sobre mim: 
 - 👋 Me chamo **Wellynton**, tenho 25 anos.
 - 📌  Sou Cearense, mas moro em São Bernardo do Campo, São Paulo, Brasil.
 - 💼 Atualmente desenvolvedor Front-End em formação.
@@ -10,20 +8,21 @@
 - 🎓 Curso Front-End na Labenu (escola de tecnologia);
 - 🔭 Curiosidades: Gosto de tocar violão, games (como por exemplo C.O.D), escrever, conhecer novas pessoas e suas jornadas. 
 
-<hr>
+----
 
-### ⚡ Habilidades:
-- ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=FFFFFF)
+## 🚀 Minhas Skills 
 
-### 🧰 Ferramentas:
-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF) ![Windows](https://img.shields.io/badge/-Windows-0078D6?&logo=Windows&logoColor=FFFFFF) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?&logo=Visual%20Studio%20Code&logoColor=FFFFFF) ![Linux](https://img.shields.io/badge/-Linux-FCC624?&logo=Linux&logoColor=FFFFFF) 
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
 
-### :bulb:  Estatísticas gerais 
- 
-![Wellynton GitHub status](https://github-readme-stats.vercel.app/api?username=wellbenicio&show_icons=true&theme=dracula)
+---
 
-### 📈  linguagens mais usadas 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellbenicio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## ⭐ Informações sobre minha conta GitHub
+![Wellynton GitHub status](https://github-readme-stats.vercel.app/api?username=wellbenicio&show_icons=true)
 
 <hr>
 
@@ -31,3 +30,4 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/brunoluiss)](https://www.linkedin.com/in/wellynton-alves-benicio/)
  [![Gmail Badge](https://img.shields.io/badge/-well.03281@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vmeazevedo@gmail.com)](mailto:well.03281@gmail.com)
+
