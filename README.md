@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é <strong>{Welynton}!</strong>
+## 💜 Bem vind@!
 
 >### 👦Sobre mim: 
 - 👋 Me chamo **Wellynton**, tenho 25 anos.
