@@ -6,7 +6,7 @@
 - 💼 Atualmente desenvolvedor Front-End em formação.
 - 🎓 Sou acadêmico de Engenharia de Software;
 - 🎓 Curso Front-End na Labenu (escola de tecnologia);
-- 🔭 Curiosidades: Gosto de tocar violão, games (como por exemplo C.O.D), escrever, conhecer novas pessoas e suas jornadas. 
+- 🔭 Curiosidades: Gosto de tocar violão, games (como por exemplo C.O.D), escrever, conhecer novas pessoas e suas jornadas e tenho o bixinho do empreendedorismo correndo na minha corrente sanguínea. 
 
 ----
 
