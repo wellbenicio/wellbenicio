@@ -1,16 +1,16 @@
-## 💜 Bem vind@!
+## Bem vind@!
 
->### 👦Sobre mim: 
+>### 👦 Sobre mim: 
 - 👋 Me chamo **Wellynton**, tenho 25 anos.
 - 📌  Sou Cearense, mas moro em São Bernardo do Campo, São Paulo, Brasil.
-- 💼 Atualmente desenvolvedor Front-End em formação.
+- 💼 Atualmente Desenvolvedor Front-End em formação.
 - 🎓 Sou acadêmico de Engenharia de Software;
 - 🎓 Curso Front-End na Labenu (escola de tecnologia);
-- 🔭 Curiosidades: Gosto de tocar violão, games (como por exemplo C.O.D), escrever, conhecer novas pessoas e suas jornadas e tenho o bixinho do empreendedorismo correndo na minha corrente sanguínea. 
+- 🔭 Curiosidades: Gosto de tocar violão, games (como por exemplo C.O.D), escrever, conhecer novas pessoas e suas jornadas e tenho o bixinho do empreendedorismo correndo em minhas veias. 
 
 ----
 
-## 🚀 Minhas Skills 
+## 🚀 Minhas Principais Skills 
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
