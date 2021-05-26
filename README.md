@@ -2,7 +2,7 @@
 
 >### 👦 Sobre mim: 
 - 👋 Me chamo **Wellynton**, tenho 25 anos.
-- 📌  Sou Cearense, mas moro em São Bernardo do Campo, São Paulo, Brasil.
+- 📌  Sou Cearense, mas moro em São Paulo/SP, Brasil.
 - 💼 Atualmente Desenvolvedor Front-End em formação.
 - 🎓 Sou acadêmico de Engenharia de Software;
 - 🎓 Curso Front-End na Labenu (escola de tecnologia);
