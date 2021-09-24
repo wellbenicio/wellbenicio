@@ -27,5 +27,5 @@
 ## ✅ Entre em contato! ✉️
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/brunoluiss)](https://www.linkedin.com/in/wellynton-alves-benicio/)
- [![Gmail Badge](https://img.shields.io/badge/-well.03281@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vmeazevedo@gmail.com)](mailto:well.03281@gmail.com)
+ [![Gmail Badge](https://img.shields.io/badge/-wellynton.benicio@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wellynton.benicio@gmail.com)](mailto:wellynton.benicio@gmail.com)
 
