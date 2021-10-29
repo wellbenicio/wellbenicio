@@ -3,7 +3,7 @@
 >### 👦 Sobre mim: 
 - 👋 Me chamo **Wellynton**, tenho 25 anos.
 - 📌  Sou Cearense, mas resido em São Paulo/SP, Brasil.
-- 💼 Atualmente atuo como estagiário em Back-End/Front-End na Precifica.
+- 💼 Atualmente atuo como estagiário em Back-End|Front-End na Precifica.
 - 🎓 Sou acadêmico de Análise e Desenvolvimento de Sistemas;
 - 🎓 Curso Front-End na Labenu (escola de tecnologia);
 - 🔭 Curiosidades: Gosto de tocar violão, games (como por exemplo C.O.D), escrever, conhecer novas pessoas e suas jornadas e tenho o bixinho do empreendedorismo correndo em minhas veias. 
