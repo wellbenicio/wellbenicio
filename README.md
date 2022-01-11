@@ -3,7 +3,7 @@
 >### 👦 Sobre mim: 
 - 👋 Sou **Wellynton**, tenho 25 anos.
 - 📌 Cearense, radicado em São Paulo/SP, Brasil.
-- 💼 Atuamente Desenvolvedor estagiário na Precifica.
+- 💼 Aberto a novas oportunidades profissionais. 
 - 🎓 Acadêmico de Análise e Desenvolvimento de Sistemas;
 - 🎓 Estudante de Front-End na Labenu (escola de tecnologia);
 - 👨🏻‍💻 Instrutor voluntário de tecnologia na CodeClub Brasil. Saiba mais sobre o projeto <a href="https://projects.raspberrypi.org/pt-BR/codeclub/">clicando aqui.</a>
