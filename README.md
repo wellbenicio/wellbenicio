@@ -1,7 +1,7 @@
 ## Bem vind@!
 
 >### 👦 Sobre mim: 
-- 👋 Sou **Wellynton**, tenho 25 anos.
+- 👋 Sou **Wellynton**, tenho 26 anos.
 - 📌 Cearense, radicado em São Paulo/SP, Brasil.
 - 💼 Aberto a novas oportunidades profissionais. 
 - 🎓 Acadêmico de Análise e Desenvolvimento de Sistemas;
