@@ -6,7 +6,7 @@
 - 💼 Aberto a novas oportunidades profissionais. 
 - 🎓 Acadêmico de Análise e Desenvolvimento de Sistemas;
 - 🎓 Estudante de Front-End na Labenu (escola de tecnologia);
-- 👨🏻‍💻 Instrutor voluntário de tecnologia na CodeClub Brasil. Saiba mais sobre o projeto <a href="https://projects.raspberrypi.org/pt-BR/codeclub/">clicando aqui.</a>
+- 👨🏻‍💻 Voluntário na CodeClub Brasil. Saiba mais sobre o projeto <a href="https://projects.raspberrypi.org/pt-BR/codeclub/">clicando aqui.</a>
 - 🔭 Curiosidades: Gosto de tocar violão, games, escrever, conhecer novas pessoas e suas jornadas, além de fazer parte de projetos sociais. 
 
 ----
