@@ -3,11 +3,11 @@
 >### 👦 Sobre mim: 
 - 👋 Sou **Wellynton**, tenho 26 anos.
 - 📌 Cearense, radicado em São Paulo/SP, Brasil.
-- 💼 Aberto a novas oportunidades profissionais. 
+- 💼 Atuo como estagiário em TI no Grupo Notredame Intermédica. 
+- 💼 Atuo também como programador/desenvolvedor front-end freelancer e estou aberto a novas oportunidades. <a href="https://wa.me/5511995515597">Clique aqui para conversarmos.</a>
 - 🎓 Acadêmico de Análise e Desenvolvimento de Sistemas;
-- 🎓 Estudante de Front-End na Labenu (escola de tecnologia);
 - 👨🏻‍💻 Voluntário na CodeClub Brasil. Saiba mais sobre o projeto <a href="https://projects.raspberrypi.org/pt-BR/codeclub/">clicando aqui.</a>
-- 🔭 Curiosidades: Gosto de tocar violão, games, escrever, conhecer novas pessoas e suas jornadas, além de fazer parte de projetos sociais. 
+- 🔭 Curiosidades: Gosto de tocar violão, games, escrever, conhecer novas pessoas e suas jornadas, fazer parte de projetos sociais. 
 
 ----
 
@@ -29,5 +29,5 @@
 
 ## ✅ Entre em contato! ✉️
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/brunoluiss)](https://www.linkedin.com/in/wellynton-alves-benicio/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/brunoluiss)](https://www.linkedin.com/in/wellbenicio/)
  [![Gmail Badge](https://img.shields.io/badge/-wellynton.benicio@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wellynton.benicio@gmail.com)](mailto:wellynton.benicio@gmail.com)
