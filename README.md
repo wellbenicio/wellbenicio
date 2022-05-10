@@ -3,7 +3,7 @@
 >### 👦 Sobre mim: 
 - 👋 Sou **Wellynton**, tenho 26 anos.
 - 📌 Cearense, radicado em São Paulo/SP, Brasil.
-- 💼 Atuo como estagiário em TI no Grupo Notredame Intermédica. 
+- 💼 Atuo como estagiário em TI no Banco Original. 
 - 💼 Atuo também como programador/desenvolvedor front-end freelancer e estou aberto a novas oportunidades. <a href="https://wa.me/5511995515597">Clique aqui para conversarmos.</a>
 - 🎓 Acadêmico de Análise e Desenvolvimento de Sistemas;
 - 👨🏻‍💻 Voluntário na CodeClub Brasil. Saiba mais sobre o projeto <a href="https://projects.raspberrypi.org/pt-BR/codeclub/">clicando aqui.</a>
