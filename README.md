@@ -25,6 +25,9 @@
 ## ⭐ Informações sobre minha conta GitHub
 ![Wellynton GitHub status](https://github-readme-stats.vercel.app/api?username=wellbenicio&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellbenicio&layout=compact)](https://github.com/wellbenicio/github-readme-stats)
+
+
 <hr>
 
 ## ✅ Entre em contato! ✉️
